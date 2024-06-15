@@ -1276,7 +1276,7 @@ a {
 .stats{
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
-    background: url(/imgs/stats.jpg);
+    background: url(../imgs/stats.jpg);
     background-size: cover;
     position: relative;
 }
@@ -1353,7 +1353,7 @@ a {
     margin-bottom: 50px;
 }
 .discount .with-img{
-    background-image: url(/imgs/discount-background1.jpg);
+    background-image: url(../imgs/discount-background1.jpg);
     background-size: cover;
     color: white;
     display: flex;
